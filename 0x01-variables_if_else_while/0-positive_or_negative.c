@@ -1,6 +1,13 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
+/**
+ * main-main block
+ * Assign a random number
+ * to n to check whether
+ * a number is positive , negative or equal
+ * to zero.
+ */
 int main(void)
 {
 	int n;
