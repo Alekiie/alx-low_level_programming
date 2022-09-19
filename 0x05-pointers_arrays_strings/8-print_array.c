@@ -17,13 +17,13 @@ void print_array(int *a, int n)
 
 	for (index = 0; index < n; index++)
 	{
-		puts("%d", a[index]);
+		putchar("%d", a[index]);
 
 		if (index == n - 1)
 			continue;
 
-		puts(", ");
+		putchar(", ");
 	}
 
-	puts("\n");
+	putchar("\n");
 }
