@@ -1,9 +1,9 @@
 /*
  * File: 0-reset_to_98.c
- * Auth: Brennan D Baraban
+ * Auth: Alexander
  */
 
-#include "holberton.h"
+#include <stdio.h>
 
 /**
  * reset_to_98 - Takes a pointer to an int and updates
